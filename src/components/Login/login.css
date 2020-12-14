@@ -1,0 +1,22 @@
+.form {
+  max-width: 50%;
+  margin: auto;
+}
+
+.form label {
+  font-weight: bold;
+}
+
+.heading {
+  font-weight: bold;
+  text-align: center;
+}
+
+.suc {
+  color: green;
+  border-radius: 50px;
+}
+
+.fail {
+  color: red;
+}

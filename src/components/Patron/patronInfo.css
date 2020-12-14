@@ -1,0 +1,29 @@
+.formPatronInfo {
+  max-width: 50%;
+  margin: auto;
+}
+
+.formPatronInfo h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+.formPatronInfo label {
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.formPatronInfo input {
+  max-width: 90%;
+  font-weight: bold;
+  border-width: 2px;
+  border-color: #000000;
+}
+
+.suc {
+  color: green;
+}
+
+.fail {
+  color: red;
+}

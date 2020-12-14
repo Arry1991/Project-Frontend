@@ -1,0 +1,53 @@
+.formBusinessMain h1,h2,h3 {
+  text-align: left;
+  width: 100%;
+  font-weight: bolder;
+}
+
+.formBusinessMain section {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.formBusinessMain aside {
+  width: 25%;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 100px;
+  margin-left: 15px;
+  margin-right: 15px;
+  float: right;
+  font-style: italic;
+}
+
+.formBusinessMain th, td {
+  text-align: left;
+  padding: 8px;
+  width: 90px;
+}
+
+*.t1 {
+  max-height: 800px;
+  max-width: 1600px;
+  overflow-y: scroll;
+  table-layout: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+
+  border: 1px solid #ddd;
+}
+
+.formBusinessMain ul {
+  list-style-type: none;
+}
+
+.formBusinessMain li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  list-style-type: none;
+}
+
+.formBusinessMain th {
+  color: whitesmoke;
+  background-color: #007bff;
+}

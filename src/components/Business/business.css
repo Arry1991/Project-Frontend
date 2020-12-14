@@ -1,0 +1,17 @@
+.form {
+  max-width: 50%;
+  margin: auto;
+}
+
+.form label {
+  font-weight: bold;
+}
+
+.heading {
+  font-weight: bold;
+  text-align: center;
+}
+
+t1 {
+  background-color: grey;
+}
